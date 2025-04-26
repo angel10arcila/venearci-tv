@@ -18,7 +18,7 @@ const mediaFiles = [
     },
    {
         name: "Red Bull Tv",
-        url: "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?p",
+        url: "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
         type: "Tv"
     },
     {
