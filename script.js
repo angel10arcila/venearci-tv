@@ -63,7 +63,7 @@ const mediaFiles = [
     },
     {
         name: "Dierctv Sports",
-        url: "https://cdn12.vivozytv.com/hotflix/dsports/index.m3u8?token=fab205efc1df9d231f013f78cbb7e12df264c650-73d5344db1bd39f1527dc1993b69436b-1745699471-1745688671&remote=201.211.5.148",
+        url: "https://cdn16.vivozytv.com/hotflix/dsports/index.m3u8?token=32d8ef69bc2cc43c8ed053496b9ace17a3c5c7c8-f349554d8dcd7d3ab20fb19753cff436-1745716232-1745705432&remote=201.211.5.148",
         type: "Tv"
     },
 
