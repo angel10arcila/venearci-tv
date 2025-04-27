@@ -32,8 +32,8 @@ const mediaFiles = [
         type: "Tv"
     },
     {
-        name: "MovieFe",
-        url: "https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?p",
+        name: "Azteca Internacional",
+        url: "https://stream.ads.ottera.tv/playlist.m3u8?network_id=539",
         type: "Tv"
     },
     {
