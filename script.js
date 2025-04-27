@@ -12,8 +12,8 @@ const mediaFiles = [
         type: "Tv"
     },
    {
-        name: "Stadium Tv",
-        url: "https://bcovlive-a.akamaihd.net/77f552c75f084189959f8a7e54d87700/us-east-1/5994000126001/playlist.m3u8?p",
+        name: "Telemundo Pr",
+        url: "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8?p",
         type: "Tv"
     },
    {
