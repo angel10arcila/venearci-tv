@@ -72,6 +72,12 @@ const mediaFiles = [
         type: "Tv"
     },
     
+   {
+        name: "Telemundo Pr",
+        url: "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8?p",
+        type: "Tv"
+    },
+    
 ];
 
 let currentTrack = 0;
