@@ -37,7 +37,7 @@ const mediaFiles = [
         type: "Tv"
     },
     {
-        name: "DW Español",
+        name: "Dw Español",
         url: "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?p",
         type: "Tv"
     },
@@ -62,8 +62,8 @@ const mediaFiles = [
         type: "Tv"
     },
     {
-        name: "Dierctv Sports",
-        url: "https://cdn16.vivozytv.com/hotflix/dsports/index.m3u8?token=32d8ef69bc2cc43c8ed053496b9ace17a3c5c7c8-f349554d8dcd7d3ab20fb19753cff436-1745716232-1745705432&remote=201.211.5.148",
+        name: "Runtime Family",
+        url: "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528",
         type: "Tv"
     },
 
