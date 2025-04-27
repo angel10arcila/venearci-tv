@@ -68,7 +68,7 @@ const mediaFiles = [
     },
    {
         name: "Xtrema tv",
-        url: "http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8?p",
+        url: "http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8",
         type: "Tv"
     },
     
