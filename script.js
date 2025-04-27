@@ -66,11 +66,6 @@ const mediaFiles = [
         url: "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528",
         type: "Tv"
     },
-   {
-        name: "Dsports",
-        url: "https://cdn12.vivozytv.com/hotflix/dsports/index.m3u8?token=8907f564e06c8032f369f06397450bf4f9dd1505-ff98127f3a567154f02b125a4fe96e3d-1745775860-1745765060&remote=201.211.5.148",
-        type: "Tv"
-    },
     
 ];
 
