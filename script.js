@@ -73,8 +73,8 @@ const mediaFiles = [
     },
     
    {
-        name: "Telemundo Pr",
-        url: "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8?p",
+        name: "Venevisión",
+        url: "https://venevision.akamaized.net/hls/live/2098814/VENEVISION/master.m3u8?p",
         type: "Tv"
     },
     
