@@ -67,14 +67,8 @@ const mediaFiles = [
         type: "Tv"
     },
    {
-        name: "Teleonce",
-        url: "https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJhOTJjNGQzMmE4ZTgxMzQ1ZmVmNWY0YWZhYzM0OTViMiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzQ1ODA3OTY4LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.USEvbzbDkGMiwKAd3dI3VNGnugcs6NRciKz9V9yOjdY0EIHelefeQO5xuNQEYe6hb9gjjyu3DcT0J1UNZi6w8-rgNFIMk8n_bx3oelzbf0IpfdUKr_moDj0DsHHPS1iifnHNVcy7DUXIwokFM1Bbt1U_eJJEXulYP7uH6VlLuswt6ZcVMjFRvvfxQjVVj9YWmKAZCP4wZQXrjevcRUKcebeHOb_S_PpdutK6xm3-bRDViP8xLBx38pEb4nwXINkVJ_yxND5BYHAIaiZvzjY4gniUv_Ht8A7sm9shUOi5jiGwJO1pgUZVJgPqftDUupXcnDE85-Yj5Xb0CepOUOnZoQ/manifest/video.m3u8?CMCD=cid%3D%221745764770051%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2287ff912c-ba5d-498a-a37f-64a8d117c813%22%2Csu",
-        type: "Tv"
-    },
-    
-   {
-        name: "Venevisión",
-        url: "https://venevision.akamaized.net/hls/live/2098814/VENEVISION/master.m3u8?p",
+        name: "Dsports",
+        url: "https://cdn12.vivozytv.com/hotflix/dsports/index.m3u8?token=8907f564e06c8032f369f06397450bf4f9dd1505-ff98127f3a567154f02b125a4fe96e3d-1745775860-1745765060&remote=201.211.5.148",
         type: "Tv"
     },
     
