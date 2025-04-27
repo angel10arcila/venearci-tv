@@ -66,8 +66,12 @@ const mediaFiles = [
         url: "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528",
         type: "Tv"
     },
-
-   
+   {
+        name: "Xtrema tv",
+        url: "http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8?p",
+        type: "Tv"
+    },
+    
 ];
 
 let currentTrack = 0;
