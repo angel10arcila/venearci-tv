@@ -32,8 +32,8 @@ const mediaFiles = [
         type: "Tv"
     },
     {
-        name: "Azteca Internacional",
-        url: "https://stream.ads.ottera.tv/playlist.m3u8?network_id=539",
+        name: "Mlb - Tigers vs Astros",
+        url: "https://v16.thetvapp.to/hls/mlb-06/tracks-v2a1/mono.m3u8",
         type: "Tv"
     },
     {
