@@ -32,7 +32,7 @@ const mediaFiles = [
         type: "Tv"
     },
     {
-        name: "SpaceCity Tv - Houston Astros",
+        name: "SpaceCity Home Network",
         url: "https://tvpass.org/live/space-city-home-network/sd",
         type: "Tv"
     },
