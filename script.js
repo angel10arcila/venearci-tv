@@ -32,8 +32,8 @@ const mediaFiles = [
         type: "Tv"
     },
     {
-        name: "Mlb - Tigers vs Astros",
-        url: "https://v16.thetvapp.to/hls/mlb-06/tracks-v2a1/mono.m3u8",
+        name: "SpaceCity Tv - mlb - Tigers vs Astros",
+        url: "https://tvpass.org/live/space-city-home-network/sd",
         type: "Tv"
     },
     {
