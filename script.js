@@ -37,6 +37,11 @@ const mediaFiles = [
         type: "Tv"
     },
     {
+        name: "Mlb Network",
+        url: "https://tvpass.org/live/MLBNetwork/sd",
+        type: "Tv"
+    },
+    {
         name: "Dw Español",
         url: "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?p",
         type: "Tv"
