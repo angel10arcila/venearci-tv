@@ -32,11 +32,6 @@ const mediaFiles = [
         type: "Tv"
     },    
     {
-        name: "Mlb - Astros vs White sox",
-        url: "https://tvpass.org/live/mlb-03/sd",
-        type: "Tv"
-    },    
-    {
         name: "Spacecityhn",
         url: "https://tvpass.org/live/space-city-home-network/sd",
         type: "Tv"
