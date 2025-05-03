@@ -11,12 +11,12 @@ const mediaFiles = [
         url: "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8?p",
         type: "Tv"
     },
-   {
+    {
         name: "Telemundo Pr",
         url: "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8?p",
         type: "Tv"
     },
-   {
+    {
         name: "Red Bull Tv",
         url: "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
         type: "Tv"
@@ -30,14 +30,12 @@ const mediaFiles = [
         name: "Star Tve",
         url: "https://rtvelivestream.akamaized.net/rtvesec/int/star_main_dvr.m3u8?p",
         type: "Tv"
-    },
-    
+    },    
     {
-        name: "Mlb - Astros - White sox",
+        name: "Mlb - Astros vs White sox",
         url: "https://tvpass.org/live/mlb-03/sd",
         type: "Tv"
-    },
-    
+    },    
     {
         name: "Spacecityhn",
         url: "https://tvpass.org/live/space-city-home-network/sd",
