@@ -31,6 +31,13 @@ const mediaFiles = [
         url: "https://rtvelivestream.akamaized.net/rtvesec/int/star_main_dvr.m3u8?p",
         type: "Tv"
     },
+    
+    {
+        name: "Mlb - Astros - White sox",
+        url: "https://tvpass.org/live/mlb-03/sd",
+        type: "Tv"
+    },
+    
     {
         name: "Spacecityhn",
         url: "https://tvpass.org/live/space-city-home-network/sd",
