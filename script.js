@@ -7,6 +7,11 @@ const mediaFiles = [
         type: "Tv"
     },
     {
+        name: "Televen",
+        url: "https://setp-televen-ssai-mslv4-open.akamaized.net/hls/live/2107128/televen/index.m3u8?p",
+        type: "Tv"
+    },
+    {
         name: "Anzoátegui Tv",
         url: "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8?p",
         type: "Tv"
