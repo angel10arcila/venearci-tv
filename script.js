@@ -35,7 +35,12 @@ const mediaFiles = [
         name: "Star Tve",
         url: "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_720.m3u8?p",
         type: "Tv"
-    },    
+    },  
+    {
+        name: "A3SERIES",
+        url: "http://hls.webredirect.org/83716/mp_9414.php/https://atres-live.atresmedia.com/a5fc99086dac3229815872291d6ac286a5853dd0_ES_1750334114_1750362854/h264leg/live/a3series/bitrate_3.m3u8",
+        type: "Tv"
+    },
     {
         name: "Spacecityhn",
         url: "https://tvpass.org/live/space-city-home-network/hd",
