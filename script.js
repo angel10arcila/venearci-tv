@@ -12,6 +12,12 @@ const mediaFiles = [
         type: "Tv"
     },
     {
+        name: "VEPACO TV",
+        url: "https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8",
+        type: "Tv"
+        
+    },
+    {
         name: "Anzoátegui Tv",
         url: "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8?p",
         type: "Tv"
