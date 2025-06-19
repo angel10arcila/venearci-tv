@@ -33,7 +33,7 @@ const mediaFiles = [
     },
     {
         name: "Star Tve",
-        url: "https://rtvelivestream.akamaized.net/rtvesec/int/star_main_dvr.m3u8?p",
+        url: "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_720.m3u8?p",
         type: "Tv"
     },    
     {
