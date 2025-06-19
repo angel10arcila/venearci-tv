@@ -48,8 +48,8 @@ const mediaFiles = [
         type: "Tv"
     },  
     {
-        name: "A3series",
-        url: "http://hls.webredirect.org/83716/mp_9414.php/https://atres-live.atresmedia.com/a5fc99086dac3229815872291d6ac286a5853dd0_ES_1750334114_1750362854/h264leg/live/a3series/bitrate_3.m3u8",
+        name: "Kanal D",
+        url: "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8?p",
         type: "Tv"
     },
     {
