@@ -102,5 +102,15 @@ button:hover {
   border-radius: 3px;
   margin-left: auto;
 }
-
+.profile-thumb {
+      position: absolute;
+      top: 315px; left: 32px;
+      width:38px; height: 38px;
+      border-radius: 50%;
+      box-shadow: 0 2px 8px #0005;
+      object-fit: cover;
+      border: 2px solid #transparent;
+      z-index: 2;
+      pandding: 20px;
+  }
 
