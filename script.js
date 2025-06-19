@@ -3,7 +3,7 @@ const mediaFiles = [
     
     {
         name: "Tvfamilia",
-        url: "https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/playlist.m3u8?p",
+        url: "https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/playlist.m3u8",
         type: "Tv"
     },
     {
@@ -24,32 +24,32 @@ const mediaFiles = [
     },
     {
         name: "Anzoátegui Tv",
-        url: "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8?p",
+        url: "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8",
         type: "Tv"
     },
     {
         name: "Telemundo Pr",
-        url: "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8?p",
+        url: "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
         type: "Tv"
     },
     {
         name: "Red Bull Tv",
-        url: "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?p",
+        url: "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
         type: "Tv"
     },
     {
         name: "Tve",
-        url: "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_576.m3u8?p",
+        url: "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_576.m3u8",
         type: "Tv"
     },
     {
         name: "Star Tve",
-        url: "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_720.m3u8?p",
+        url: "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_720.m3u8",
         type: "Tv"
     },  
     {
         name: "Kanal D",
-        url: "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8?p",
+        url: "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8",
         type: "Tv"
     },
     {
@@ -59,22 +59,22 @@ const mediaFiles = [
     },
     {
         name: "Mlb Network",
-        url: "https://tvpass.org/live/MLBNetwork/sd",
+        url: "https://tvpass.org/live/MLBNetwork/hd",
         type: "Tv"
     },
     {
         name: "Dw Español",
-        url: "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?p",
+        url: "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
         type: "Tv"
     },
     {
         name: "Amc",
-        url: "https://d38fxgxhpllpfu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4w47pf3x50sko/playlist.m3u8?p",
+        url: "https://d38fxgxhpllpfu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4w47pf3x50sko/playlist.m3u8",
         type: "Tv"
     },
     {
         name: "Televisa Novelas",
-        url: "https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?p",
+        url: "https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
         type: "Tv"
     },
     {
@@ -84,7 +84,7 @@ const mediaFiles = [
     },
     {
         name: "Free TV",
-        url: "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8?p",
+        url: "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8",
         type: "Tv"
     },
     {
