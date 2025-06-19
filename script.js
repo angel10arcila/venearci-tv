@@ -38,7 +38,7 @@ const mediaFiles = [
     },    
     {
         name: "Spacecityhn",
-        url: "https://tvpass.org/live/space-city-home-network/sd",
+        url: "https://tvpass.org/live/space-city-home-network/hd",
         type: "Tv"
     },
     {
