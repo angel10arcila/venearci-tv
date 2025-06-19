@@ -7,8 +7,8 @@ const mediaFiles = [
         type: "Tv"
     },
     {
-        name: "Venevisión internacional",
-        url: "https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8",
+        name: "DirecTV",
+        url: "https://cdn12.vivozytv.com/hotflix/dsports/index.m3u8?token=20647bbbbedc0344b0f155e955cd331356274f36-c6660c50abfae9850a81ed2c03408641-1750363908-1750353108&remote=190.205.64.118",
         type: "Tv"
     },
     {
