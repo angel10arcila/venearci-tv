@@ -17,7 +17,7 @@ const mediaFiles = [
         type: "Tv"
     },
     {
-        name: "VEPACO TV",
+        name: "Vepaco Tv",
         url: "https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8",
         type: "Tv"
         
