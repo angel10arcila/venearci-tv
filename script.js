@@ -8,7 +8,7 @@ const mediaFiles = [
     },
     {
         name: "Televen",
-        url: "https://setp-televen-ssai-mslv4-open.akamaized.net/hls/live/2107128/televen/index.m3u8?p",
+        url: "https://mediablocks-ve.global.ssl.fastly.net/10255/live/hls/televen/index.m3u8?hdnts=data%3Dip%3D190.205.64.118%2Cid%3DTLV-GUEST%2Cpid%3D255%2Cdid%3DN%2FA%2Csid%3DWBS~acl%3D%2F10255%2Flive%2Fhls%2Fteleven%2F%2A~exp%3D1750354853~hmac%3D56cd54de5b0619c360ed75d15a0ff27093fcb6d0124de454f57b4886c6b702dc",
         type: "Tv"
     },
     {
@@ -37,7 +37,7 @@ const mediaFiles = [
         type: "Tv"
     },  
     {
-        name: "A3SERIES",
+        name: "A3series",
         url: "http://hls.webredirect.org/83716/mp_9414.php/https://atres-live.atresmedia.com/a5fc99086dac3229815872291d6ac286a5853dd0_ES_1750334114_1750362854/h264leg/live/a3series/bitrate_3.m3u8",
         type: "Tv"
     },
