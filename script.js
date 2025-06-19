@@ -83,8 +83,8 @@ const mediaFiles = [
         type: "Tv"
     },
     {
-        name: "Show Ven",
-        url: "https://vcp.myplaytv.com/coll/coll/playlist.m3u8?p",
+        name: "Free TV",
+        url: "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8?p",
         type: "Tv"
     },
     {
