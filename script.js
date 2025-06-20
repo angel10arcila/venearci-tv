@@ -1,4 +1,4 @@
-// Configuración de medios predefinidos
+ // Configuración de medios predefinidos
 const mediaFiles = [
     
     {
@@ -13,7 +13,7 @@ const mediaFiles = [
     },
     {
         name: "Televen",
-        url: "https://mediablocks-ve.global.ssl.fastly.net/10255/live/hls/televen/index.m3u8?hdnts=data%3Dip%3D200.93.97.245%2Cid%3DTLV-GUEST%2Cpid%3D255%2Cdid%3DN%2FA%2Csid%3DWBS~acl%3D%2F10255%2Flive%2Fhls%2Fteleven%2F%2A~exp%3D1750448898~hmac%3Da55ccc14a94a2262d33dd58e396686d4d545ac7c08e7c24c39f03cb4a3638b90",
+        url: "https://mediablocks-ve.global.ssl.fastly.net/10255/live/hls/televen/index.m3u8?hdnts=data%3Dip%3D200.93.97.245%2Cid%3DTLV-GUEST%2Cpid%3D255%2Cdid%3DN%2FA%2Csid%3DWBS~acl%3D%2F10255%2Flive%2Fhls%2Fteleven%2F%2A~exp%3D1750463835~hmac%3D1ee74d6ad8cb6f15147da6c686d5c2877497cfb3e0e731d851af85ee8a53b9d0",
         type: "Tv"
     },
     {
