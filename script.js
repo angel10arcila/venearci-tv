@@ -11,6 +11,12 @@ const mediaFiles = [
         url: "https://cdn16.vivozytv.com/dsports/index.m3u8?token=47e8dc378c6ba4a1617f6ad0ca6b1abfd030025a-f6ea00aabcadfee00de7628d822be124-1750387355-1750376555&remote=190.205.64.118",
         type: "Tv"
     },
+    
+    {
+        name: "GoalTv",
+        url: "https://amg00585-sportstribal-amg00585c1-sportstribal-emea-2175.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-goaltv-sportstribalemea/playlist.m3u8?channel_name=GOAL%20TV&content_genre=Football%2CSport&ic=IAB17%2CIAB17-12&provider=FreeLiveSports&us_privacy=1---&gdpr=0&gdpr_consent=&coppa=0&content_livestream=1&p=sportstribal&url=https%3A%2F%2Fphotocall.site%2F&lmt=0&did=ZyTsEI",
+        type: "Tv"
+    },
     {
         name: "Televen",
         url: "https://mediablocks-ve.global.ssl.fastly.net/10255/live/hls/televen/index.m3u8?hdnts=data%3Dip%3D190.205.64.118%2Cid%3DTLV-GUEST%2Cpid%3D255%2Cdid%3DN%2FA%2Csid%3DWBS~acl%3D%2F10255%2Flive%2Fhls%2Fteleven%2F%2A~exp%3D1750388152~hmac%3D2025d0ceb157ee5d4fa94dd55adbc327a12e36b41978b69b349f7a339c92869f",
@@ -83,7 +89,7 @@ const mediaFiles = [
         type: "Tv"
     },
     {
-        name: "Free TV",
+        name: "Free Tv",
         url: "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8",
         type: "Tv"
     },
