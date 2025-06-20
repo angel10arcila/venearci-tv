@@ -11,12 +11,6 @@ const mediaFiles = [
         url: "https://cdn12.vivozytv.com/hotflix/dsports/index.m3u8?token=437fdf907430cb287e0e7e38650e14f6630203f3-3e876717059c1d645e7c8c75b4e84f7a-1750448078-1750437278&remote=200.93.97.245",
         type: "Tv"
     },
-    
-    {
-        name: "GoalTv",
-        url: "https://amg00585-sportstribal-amg00585c1-sportstribal-emea-2175.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-goaltv-sportstribalemea/playlist.m3u8?channel_name=GOAL%20TV&content_genre=Football%2CSport&ic=IAB17%2CIAB17-12&provider=FreeLiveSports&us_privacy=1---&gdpr=0&gdpr_consent=&coppa=0&content_livestream=1&p=sportstribal&url=https%3A%2F%2Fphotocall.site%2F&lmt=0&did=ZyTsEI",
-        type: "Tv"
-    },
     {
         name: "Televen",
         url: "https://mediablocks-ve.global.ssl.fastly.net/10255/live/hls/televen/index.m3u8?hdnts=data%3Dip%3D200.93.97.245%2Cid%3DTLV-GUEST%2Cpid%3D255%2Cdid%3DN%2FA%2Csid%3DWBS~acl%3D%2F10255%2Flive%2Fhls%2Fteleven%2F%2A~exp%3D1750448898~hmac%3Da55ccc14a94a2262d33dd58e396686d4d545ac7c08e7c24c39f03cb4a3638b90",
@@ -26,13 +20,7 @@ const mediaFiles = [
         name: "Canal I",
         url: "https://vcp10.myplaytv.com/canali/canali/.m3u8",
         type: "Tv"
-    },
-    {
-        name: "Venearci",
-        url: "https://ucb1.dbcast.live/ELN4BoL3259HJDDrox5zTg/1750466644/3230302e39332e39372e323435/ff630/playlist.m3u8",
-        type: "Tv"
-        
-    },    
+    },   
     {
         name: "Vepaco Tv",
         url: "https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8",
