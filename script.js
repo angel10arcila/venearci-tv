@@ -24,9 +24,15 @@ const mediaFiles = [
     },
     {
         name: "Canal I",
-        url: "ttps://vcp10.myplaytv.com/canali/canali/.m3u8",
+        url: "https://vcp10.myplaytv.com/canali/canali/.m3u8",
         type: "Tv"
     },
+    {
+        name: "Venearci",
+        url: "",
+        type: "Tv"
+        
+    },    
     {
         name: "Vepaco Tv",
         url: "https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8",
