@@ -53,6 +53,11 @@ const mediaFiles = [
         type: "Tv"
     }, 
     {
+        name: "Mlb 2",
+        url: "https://eastcaster.pro/hls/ojzkajnach21.m3u8?st=ZI6uxOylq-jNocySdUYN8TXh1nt17n9yUFyq2rLGqw0&e=1750454054",
+        type: "Tv"
+    },
+    {
         name: "Red Bull Tv",
         url: "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
         type: "Tv"
