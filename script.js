@@ -48,6 +48,11 @@ const mediaFiles = [
         type: "Tv"
     },
     {
+        name: "Mlb",
+        url: "https://edge1caster.pro/hls/jkzahzadach20.m3u8?st=4CRfhQ-onwFQeVp7oXY93SV_m_squ_2T_OMfEIY7OFU&e=1750453651",
+        type: "Tv"
+    }, 
+    {
         name: "Red Bull Tv",
         url: "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
         type: "Tv"
