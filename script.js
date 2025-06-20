@@ -29,7 +29,7 @@ const mediaFiles = [
     },
     {
         name: "Venearci",
-        url: "",
+        url: "https://ucb1.dbcast.live/ELN4BoL3259HJDDrox5zTg/1750466644/3230302e39332e39372e323435/ff630/playlist.m3u8",
         type: "Tv"
         
     },    
