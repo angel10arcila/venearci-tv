@@ -8,12 +8,12 @@ const mediaFiles = [
     },
     {
         name: "DirecTV",
-        url: "https://cdn12.vivozytv.com/hotflix/dsports/index.m3u8?token=e3b02326ad5ad7a77824505713e0b7e31308c330-1c05bc1d7c22f928d39d3a52e1b80ba0-1750463415-1750452615&remote=200.93.97.245",
+        url: "https://cdn12.vivozytv.com/hotflix/dsports/index.m3u8?token=cb6f43b2447fa3c855391a33ba28915f755c4409-648b2c441ce2b3b034c584bfb9e0d9b3-1750463845-1750453045&remote=200.93.97.245",
         type: "Tv"
     },
     {
         name: "Televen",
-        url: "https://mediablocks-ve.global.ssl.fastly.net/10255/live/hls/televen/index.m3u8?hdnts=data%3Dip%3D200.93.97.245%2Cid%3DTLV-GUEST%2Cpid%3D255%2Cdid%3DN%2FA%2Csid%3DWBS~acl%3D%2F10255%2Flive%2Fhls%2Fteleven%2F%2A~exp%3D1750463835~hmac%3D1ee74d6ad8cb6f15147da6c686d5c2877497cfb3e0e731d851af85ee8a53b9d0",
+        url: "https://mediablocks-ve.global.ssl.fastly.net/10255/live/hls/televen/index.m3u8?hdnts=data%3Dip%3D200.93.97.245%2Cid%3DTLV-GUEST%2Cpid%3D255%2Cdid%3DN%2FA%2Csid%3DWBS~acl%3D%2F10255%2Flive%2Fhls%2Fteleven%2F%2A~exp%3D1750464121~hmac%3Df5dec807561886e50b365c7f686c3209346e8d1064fd92ac5bab228a53f6afe2",
         type: "Tv"
     },
     {
