@@ -59,7 +59,7 @@ const mediaFiles = [
     },
     {
         name: "Mlb 3",
-        url: "https://eastcaster.pro/hls/kjhfzua25.m3u8?st=H3d3I2HzcRmLMOPeSwZo3sqZ8N9WiowHjL6Aa2fBhzI&e=1750454587",
+        url: "https://eastcaster.pro/hls/jzabfazkbf27.m3u8?st=GUaAmz-EJOQf8HrESKhCr_uhrRhQvuSbEJBnPsgNe1I&e=1750533290",
         type: "Tv"
     },
     {
