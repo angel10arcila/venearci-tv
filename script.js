@@ -49,7 +49,7 @@ const mediaFiles = [
     },
     {
         name: "Mlb",
-        url: "https://edge1caster.pro/hls/jkzahzadach20.m3u8?st=4CRfhQ-onwFQeVp7oXY93SV_m_squ_2T_OMfEIY7OFU&e=1750453651",
+        url: "https://edge1caster.pro/hls/jnzkdzjfanch23.m3u8?st=7-FxhsZo5v07OQVCx1xn4IvY0yo--qtkCnzbuA-4O3I&e=1750532529",
         type: "Tv"
     }, 
     {
