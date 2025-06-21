@@ -54,7 +54,7 @@ const mediaFiles = [
     }, 
     {
         name: "Mlb 2",
-        url: "https://eastcaster.pro/hls/ojzkajnach21.m3u8?st=ZI6uxOylq-jNocySdUYN8TXh1nt17n9yUFyq2rLGqw0&e=1750454054",
+        url: "https://eastcaster.pro/hls/fskjanach24.m3u8?st=gVlZUcfb_rf-0jPFuHm96BIvsipd5KADhYgmoyQyRis&e=1750533001",
         type: "Tv"
     },
     {
