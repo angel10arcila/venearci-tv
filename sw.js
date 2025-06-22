@@ -1,5 +1,5 @@
 // Simple offline cache para PWA
-const CACHE_NAME = 'angel10arcila-maqueta-cache-v1';
+const CACHE_NAME = 'venearci-tv-cache-v1';
 const urlsToCache = [
   '/', 
   'index.html',
