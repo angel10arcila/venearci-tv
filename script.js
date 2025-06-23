@@ -16,6 +16,22 @@ const mediaFiles = [
         url: "https://mediablocks-ve.global.ssl.fastly.net/10255/live/hls/televen/index.m3u8?hdnts=data%3Dip%3D200.93.97.245%2Cid%3DTLV-GUEST%2Cpid%3D255%2Cdid%3DN%2FA%2Csid%3DWBS~acl%3D%2F10255%2Flive%2Fhls%2Fteleven%2F%2A~exp%3D1750702381~hmac%3D90b249d5af8091b557596b3c1635c6096349abe8bcce260788f223c0ef78d008",
         type: "Tv"
     },
+    
+    {
+        name: "Mlb",
+        url: "https://eastcaster.pro/hls/bzagLHzach19.m3u8?st=kgY-zCm5z2sj_Gt5Vw4IQWZnQfPbznSLNoP7KJbD9qI&e=1750618562",
+        type: "Tv"
+    }, 
+    {
+        name: "Mlb 2",
+        url: "https://edge1caster.pro/hls/dzjhkfazbka26.m3u8?st=eqncpkrJXqO6q6xY1VBQcVoVoCdvAIzsevFfUq0k3Pw&e=1750618675",
+        type: "Tv"
+    },
+    {
+        name: "Mlb 3",
+        url: "https://eastcaster.pro/hls/hfzljfahzcax29.m3u8?st=7p-_8hG0AgeKLIt0ZY5ZDIDEYl9_IIe4TokAwJDdpWc&e=1750618757",
+        type: "Tv"
+    },
     {
         name: "Canal I",
         url: "https://vcp10.myplaytv.com/canali/canali/.m3u8",
@@ -45,21 +61,6 @@ const mediaFiles = [
     {
         name: "Mlb Network",
         url: "https://tvpass.org/live/MLBNetwork/hd",
-        type: "Tv"
-    },
-    {
-        name: "Mlb",
-        url: "https://eastcaster.pro/hls/bzagLHzach19.m3u8?st=kgY-zCm5z2sj_Gt5Vw4IQWZnQfPbznSLNoP7KJbD9qI&e=1750618562",
-        type: "Tv"
-    }, 
-    {
-        name: "Mlb 2",
-        url: "https://edge1caster.pro/hls/dzjhkfazbka26.m3u8?st=eqncpkrJXqO6q6xY1VBQcVoVoCdvAIzsevFfUq0k3Pw&e=1750618675",
-        type: "Tv"
-    },
-    {
-        name: "Mlb 3",
-        url: "https://eastcaster.pro/hls/hfzljfahzcax29.m3u8?st=7p-_8hG0AgeKLIt0ZY5ZDIDEYl9_IIe4TokAwJDdpWc&e=1750618757",
         type: "Tv"
     },
     {
