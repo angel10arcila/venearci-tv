@@ -28,7 +28,7 @@ const mediaFiles = [
     }, 
     {
         name: "Mlb 2",
-        url: "https://edge1caster.pro/hls/dzjhkfazbka26.m3u8?st=eqncpkrJXqO6q6xY1VBQcVoVoCdvAIzsevFfUq0k3Pw&e=1750618675",
+        url: "https://edge1caster.pro/hls/jkzahzadach20.m3u8?st=jonk-XmzrJ35_q97rdyzhGNmVCDSRqHRZwVsLw5kBNw&e=1750713909",
         type: "Tv"
     },
     {
