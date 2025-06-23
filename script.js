@@ -28,14 +28,9 @@ const mediaFiles = [
     },
     {
         name: "Mlb 3",
-        url: "https://eastcaster.pro/hls/hfzljfahzcax29.m3u8?st=7p-_8hG0AgeKLIt0ZY5ZDIDEYl9_IIe4TokAwJDdpWc&e=1750618757",
+        url: "https://eastcaster.pro/hls/jnzkdzjfanch23.m3u8?st=hLMkHuUNHKMN0fJuRDwMynS8W0pFcAoKwCI_1-2wCuw&e=1750728917",
         type: "Tv"
     }, 
-    {
-        name: "Mlb jugadas destacadas",
-        url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/22/dd148b23-bd5270c7-d07bef10-csvm-diamondgcp-asset.m3u8",
-        type: "Tv"
-    },
     {
         name: "Canal I",
         url: "https://vcp10.myplaytv.com/canali/canali/.m3u8",
