@@ -8,7 +8,7 @@ const mediaFiles = [
     },
     {
         name: "DirecTV",
-        url: "https://cdn12.vivozytv.com/hotflix/dsports/index.m3u8?token=a9fe63afb0ff5943d3c3fb508531fe3f14640bc9-d1d45ba3f836deeab184a245fff47f17-1750789299-1750778499&remote=200.93.97.245",
+        url: "https://cdn12.vivozytv.com/hotflix/dsports/index.m3u8?token=4a244328b46dd4d322e0e542806eed185ac998db-c3f0d48f37a0d65dc88a8906d495742d-1750810509-1750799709&remote=200.93.97.245",
         type: "Tv"
     },
     {
