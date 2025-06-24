@@ -18,12 +18,12 @@ const mediaFiles = [
     }, 
     {
         name: "Mlb",
-        url: "https://eastcaster.pro/hls/bzagLHzach19.m3u8?st=rIly39uX_8GJb2YpOkcbH1dxg3RGFGuZ4GL-T5VT19M&e=1750798392",
+        url: "https://eastcaster.pro/hls/ihfazugfyjcazich17.m3u8?st=_nSJFgBdbFQQbQHuo1_GlUz5tqp4oBfB4IKjxzbcQyE&e=1750798548",
         type: "Tv"
     }, 
     {
         name: "Mlb 2",
-        url: "https://edge1caster.pro/hls/jkzahzadach20.m3u8?st=jonk-XmzrJ35_q97rdyzhGNmVCDSRqHRZwVsLw5kBNw&e=1750713909",
+        url: "https://eastcaster.pro/hls/bzagLHzach19.m3u8?st=rIly39uX_8GJb2YpOkcbH1dxg3RGFGuZ4GL-T5VT19M&e=1750798392",
         type: "Tv"
     },
     {
