@@ -1,4 +1,11 @@
 Está página, está libre de troyanos, 
 malware o de cualquier otro tipo de virus
-malaisisos. Es 100% confiable, y la pueden
-escanear para comprobarlo.
+malaisisos. Es 100% confiable, y la pueden escanear para comprobarlo.
+
+Por los momentos venearci, esta en una versión beta, en pruebas de ensaayos y error, tratando de mejorar cada día, aunque no, es una página tan sofisticada porqué trabajamos, trabajmaos en formato sencillo y comando para el usuario, y que sea más práctico y menos conflitivo su usó, trabajemos sin bases de datos, utilizando directamente el cotenido desde el mismo servidor de Github... 
+
+¡Queremos ir mejorando cada dia más!
+
+Y cualquiera aporté informático, critica constructiva, para el desarrollo web de nuestra web o app, tendra una muy buena recepción de nuestra parte. 
+
+La idea de trabajar en Github, es para que entre todos los usuarios, profesionales y personas con conocimientos informáticos, nos ayudemos entre todos. Hasta los momentos venearci, ha trabajado sólo con el desarrollo de nuestra web.
