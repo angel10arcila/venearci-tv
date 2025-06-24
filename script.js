@@ -18,7 +18,7 @@ const mediaFiles = [
     }, 
     {
         name: "Mlb",
-        url: "https://edge1caster.pro/hls/ihfazugfyjcazich17.m3u8?st=mqBSR1mdSbv5zS5EXYn8wHTSyQ9pWh1eM6m0rZ6LCQU&e=1750713582",
+        url: "https://eastcaster.pro/hls/bzagLHzach19.m3u8?st=rIly39uX_8GJb2YpOkcbH1dxg3RGFGuZ4GL-T5VT19M&e=1750798392",
         type: "Tv"
     }, 
     {
