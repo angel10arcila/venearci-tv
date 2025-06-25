@@ -30,11 +30,6 @@ const mediaFiles = [
         name: "Mlb 3",
         url: "https://eastcaster.pro/hls/kjhfzua25.m3u8?st=pbszg2_1lwq3NijtsL1g8GDz1l0SB8XA9ZqdwN2q9YM&e=1750810568",
         type: "Tv"
-    }, 
-    {
-        name: "Canal I",
-        url: "https://vcp10.myplaytv.com/canali/canali/.m3u8",
-        type: "Tv"
     },   
     {
         name: "Vepaco Tv",
@@ -52,16 +47,6 @@ const mediaFiles = [
         url: "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
         type: "Tv"
     },    
-    {
-        name: "Spacecityhn",
-        url: "https://tvpass.org/live/space-city-home-network/hd",
-        type: "Tv"
-    },
-    {
-        name: "Mlb Network",
-        url: "https://tvpass.org/live/MLBNetwork/hd",
-        type: "Tv"
-    },
     {
         name: "Red Bull Tv",
         url: "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
