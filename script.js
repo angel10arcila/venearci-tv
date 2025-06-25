@@ -13,7 +13,7 @@ const mediaFiles = [
     },
     {
         name: "Televen",
-        url: "https://mediablocks-ve.global.ssl.fastly.net/10255/live/hls/televen/index.m3u8?hdnts=data%3Dip%3D200.93.97.245%2Cid%3DTLV-GUEST%2Cpid%3D255%2Cdid%3DN%2FA%2Csid%3DWBS~acl%3D%2F10255%2Flive%2Fhls%2Fteleven%2F%2A~exp%3D1750897890~hmac%3D39ee9d36d21df00b8a2801782cf3819d5a63a4d3c50ff8c623a6960cf03a7ce7",
+        url: "https://setp-televen-ssai-mslv4-open.akamaized.net/hls/live/2107128/televen/index.m3u8",
         type: "Tv"
     }, 
     {
