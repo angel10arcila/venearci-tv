@@ -17,8 +17,8 @@ const mediaFiles = [
         type: "Tv"
     }, 
     {
-        name: "Mlb",
-        url: "https://eastcaster.pro/hls/Czajafjihafch18.m3u8?st=VvDnevY6Cjl97DODYdrpQmUjoc0Fx80vUqsEC9TQq9A&e=1750885808",
+        name: "Mlb - Astros vs Phillies",
+        url: "https://edge1caster.pro/hls/Czajafjihafch18.m3u8?st=dCKN3l8smjVEod5YZ-6PzrgmSysQtagfhQIQSrHho84&e=1750963288",
         type: "Tv"
     }, 
     {
