@@ -27,8 +27,8 @@ const mediaFiles = [
         type: "Tv"
     },
     {
-        name: "Mlb 3",
-        url: "https://eastcaster.pro/hls/jzabfazkbf27.m3u8?st=a3wu1ztWN8cEavloHo6eaEBN0_f9Z1SE31Qyxnv777Y&e=1750885696",
+        name: "Mlb 3 - Braves vs Mets",
+        url: "https://eastcaster.pro/hls/jnzkdzjfanch23.m3u8?st=jsnXIe_EsoXbmcS0sa98clRSOBh_Iph0Qd0mHF6J2A4&e=1750963695",
         type: "Tv"
     },   
     {
