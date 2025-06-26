@@ -17,13 +17,13 @@ const mediaFiles = [
         type: "Tv"
     }, 
     {
-        name: "Mlb - Astros vs Phillies",
-        url: "https://edge1caster.pro/hls/Czajafjihafch18.m3u8?st=dCKN3l8smjVEod5YZ-6PzrgmSysQtagfhQIQSrHho84&e=1750963288",
+        name: "Mlb - Athletics vs Tigers",
+        url: "https://eastcaster.pro/hls/iueyzbvezch16.m3u8?st=1xMa9OxS2mFGWXcNwwXAuGk-g023-tbZeuNOlpVpG_M&e=1750963474",
         type: "Tv"
     }, 
     {
-        name: "Mlb 2",
-        url: "https://edge1caster.pro/hls/jnzkdzjfanch23.m3u8?st=NyRjnxI4hbo2_VA9IhwEwjmwi_ZNuSCGB6L6Rgy-hbQ&e=1750885603",
+        name: "Mlb 2 - Phillies vs Astros",
+        url: "https://edge1caster.pro/hls/Czajafjihafch18.m3u8?st=dCKN3l8smjVEod5YZ-6PzrgmSysQtagfhQIQSrHho84&e=1750963288",
         type: "Tv"
     },
     {
