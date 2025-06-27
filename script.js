@@ -37,6 +37,11 @@ const mediaFiles = [
         type: "Tv"
     }, 
     {
+        name: "Mlb network",
+        url: "https://windnew.newkso.ru/wind/premium399/mono.m3u8",
+        type: "tv"
+    },
+    {
         name: "Venevisión",
         url: "https://venevision-ioriver-cdn.encoders.immergo.tv/master.m3u8",
         type: "Tv"
