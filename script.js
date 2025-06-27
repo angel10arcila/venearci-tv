@@ -24,7 +24,7 @@ const mediaFiles = [
     },
     {
         name: "Venevisión",
-        url: 'https://venevision.akamaized.net/hls/live/2098814/VENEVISION/master.m3u8",
+        url: "https://venevision.akamaized.net/hls/live/2098814/VENEVISION/master.m3u8",
         type: "Tv"
     },
     { 
