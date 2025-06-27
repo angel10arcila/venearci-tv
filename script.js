@@ -36,11 +36,6 @@ const mediaFiles = [
         url: "https://eastcaster.pro/hls/jnzkdzjfanch23.m3u8?st=jsnXIe_EsoXbmcS0sa98clRSOBh_Iph0Qd0mHF6J2A4&e=1750963695",
         type: "Tv"
     }, 
-   {
-        name: "Mlb network",
-        url: "https://d2rz3em7ql838g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cy872esk4qweb/playlist.m3u8",
-        type: "tv"
-    },
     {
         name: "Venevisión",
         url: "https://venevision-ioriver-cdn.encoders.immergo.tv/master.m3u8",
