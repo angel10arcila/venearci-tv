@@ -41,12 +41,17 @@ const mediaFiles = [
         url: "https://d2rz3em7ql838g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cy872esk4qweb/playlist.m3u8",
         type: "tv"
     },
-   {
+    {
+        name: "Venevisión",
+        url: "https://venevision-ioriver-cdn.encoders.immergo.tv/master.m3u8",
+        type: "Tv"
+    },
+    {
         name: "Venevisión internacional",
         url: "https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8",
         type: "Tv"
     },
-   { 
+    { 
        name: "Vplus",
        url: "https://univtec.g-mana.live/media/87cf9a41-5ac6-4377-8238-0217c6a19a97/mainManifest.m3u8?player.w=392.727&player.h=669.818&player.content_genre=Television&player.channel_name=VePlus",
        type: "En vivo"
@@ -60,6 +65,11 @@ const mediaFiles = [
     {
         name: "Anzoátegui Tv",
         url: "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8",
+        type: "Tv"
+    },
+     {
+        name: "Telemundo California",
+        url: "https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8",
         type: "Tv"
     },
     {
@@ -91,6 +101,11 @@ const mediaFiles = [
         name: "Dw Español",
         url: "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
         type: "Tv"
+    }, 
+    {
+        name: "Cine latino",
+        url: "https://dakx5lx3r8kdx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i8te7bkxtxtyk/server/distrib/AVM6MyFXVOkYSzN0/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqmRj8vj-oWa2c7AfycYxckSjrhw6M5wnSHb_M-ipF-_gAUgB4Au2GiAbu9plqlpzSelj70dag8LI1WtRCBFc5POzwoqNj6MnletDK7AIJH8MQpa6CHWCIwcVAuMZxZ1Bp6wEqyEKGdO89flHaPae-PFrmRrbIXG4e5yaUlKGWwqdCbpmgN-iWWY4W1LkvfhStw/manifest.m3u8",
+        type: "tv"
     },
     {
         name: "Amc",
