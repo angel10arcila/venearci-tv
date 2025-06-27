@@ -58,6 +58,11 @@ const mediaFiles = [
         
     },
     {
+        name: "Canal I",
+        url: "ttps://vcp10.myplaytv.com/canali/canali/.m3u8",
+        type: "Tv"
+    },
+    {
         name: "Anzoátegui Tv",
         url: "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8",
         type: "Tv"
