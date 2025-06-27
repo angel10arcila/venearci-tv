@@ -49,7 +49,7 @@ const mediaFiles = [
     { 
        name: "Vplus",
        url: "https://univtec.g-mana.live/media/87cf9a41-5ac6-4377-8238-0217c6a19a97/mainManifest.m3u8?player.w=392.727&player.h=669.818&player.content_genre=Television&player.channel_name=VePlus",
-       type: "En vivo"
+       type: "Tv"
     },
     {
         name: "Vepaco Tv",
