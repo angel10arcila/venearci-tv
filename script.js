@@ -37,7 +37,7 @@ const mediaFiles = [
         type: "Tv"
     }, 
    {
-        name: "Mlb network HD - VPN",
+        name: "Mlb network HD",
         url: "https://tvpass.org/live/MLBNetwork/hd",
         type: "Tv"
    },
