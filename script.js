@@ -16,6 +16,11 @@ const mediaFiles = [
         url: "https://setp-televen-ssai-mslv4-open.akamaized.net/hls/live/2107128/televen/index.m3u8",
         type: "Tv"
     }, 
+   {
+        name: "Space Cityhn",
+        url: "https://tvpass.org/live/sny-sportsnet-new-york-comcast/hd",
+        type: "Tv"
+    },
     {
         name: "Mlb - Athletics vs Tigers",
         url: "https://eastcaster.pro/hls/iueyzbvezch16.m3u8?st=1xMa9OxS2mFGWXcNwwXAuGk-g023-tbZeuNOlpVpG_M&e=1750963474",
@@ -30,7 +35,12 @@ const mediaFiles = [
         name: "Mlb 3 - Braves vs Mets",
         url: "https://eastcaster.pro/hls/jnzkdzjfanch23.m3u8?st=jsnXIe_EsoXbmcS0sa98clRSOBh_Iph0Qd0mHF6J2A4&e=1750963695",
         type: "Tv"
-    },   
+    }, 
+  {
+        name: "Venevisión internacional",
+        url: "https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8",
+        type: "Tv"
+    },
     {
         name: "Vepaco Tv",
         url: "https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8",
