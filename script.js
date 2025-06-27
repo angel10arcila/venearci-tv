@@ -41,6 +41,11 @@ const mediaFiles = [
         url: "https://windnew.newkso.ru/wind/premium399/mono.m3u8",
         type: "tv"
     },
+   {
+        name: "Mlb network HD - VPN",
+        url: "https://tvpass.org/live/MLBNetwork/hd",
+        type: "Tv"
+   },
     {
         name: "Venevisión",
         url: "https://venevision-ioriver-cdn.encoders.immergo.tv/master.m3u8",
