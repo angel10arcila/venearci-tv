@@ -1,4 +1,4 @@
- // Configuración de medios predefinidos
+// Configuración de medios predefinidos
 const mediaFiles = [
     
     {
@@ -36,22 +36,12 @@ const mediaFiles = [
         url: "https://eastcaster.pro/hls/jnzkdzjfanch23.m3u8?st=jsnXIe_EsoXbmcS0sa98clRSOBh_Iph0Qd0mHF6J2A4&e=1750963695",
         type: "Tv"
     }, 
-    {
-        name: "Mlb network",
-        url: "https://windnew.newkso.ru/wind/premium399/mono.m3u8",
-        type: "tv"
-    },
    {
         name: "Mlb network HD - VPN",
         url: "https://tvpass.org/live/MLBNetwork/hd",
         type: "Tv"
    },
-    {
-        name: "Venevisión",
-        url: "https://venevision-ioriver-cdn.encoders.immergo.tv/master.m3u8",
-        type: "Tv"
-    },
-    {
+   {
         name: "Venevisión internacional",
         url: "https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8",
         type: "Tv"
