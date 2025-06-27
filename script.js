@@ -16,32 +16,7 @@ const mediaFiles = [
         url: "https://setp-televen-ssai-mslv4-open.akamaized.net/hls/live/2107128/televen/index.m3u8",
         type: "Tv"
     }, 
-   {
-        name: "Space Cityhn",
-        url: "https://tvpass.org/live/sny-sportsnet-new-york-comcast/hd",
-        type: "Tv"
-    },
-    {
-        name: "Mlb - Athletics vs Tigers",
-        url: "https://eastcaster.pro/hls/iueyzbvezch16.m3u8?st=1xMa9OxS2mFGWXcNwwXAuGk-g023-tbZeuNOlpVpG_M&e=1750963474",
-        type: "Tv"
-    }, 
-    {
-        name: "Mlb 2 - Phillies vs Astros",
-        url: "https://edge1caster.pro/hls/Czajafjihafch18.m3u8?st=dCKN3l8smjVEod5YZ-6PzrgmSysQtagfhQIQSrHho84&e=1750963288",
-        type: "Tv"
-    },
-    {
-        name: "Mlb 3 - Braves vs Mets",
-        url: "https://eastcaster.pro/hls/jnzkdzjfanch23.m3u8?st=jsnXIe_EsoXbmcS0sa98clRSOBh_Iph0Qd0mHF6J2A4&e=1750963695",
-        type: "Tv"
-    }, 
-   {
-        name: "Mlb network HD",
-        url: "https://tvpass.org/live/MLBNetwork/hd",
-        type: "Tv"
-   },
-   {
+      {
         name: "Venevisión internacional",
         url: "https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8",
         type: "Tv"
