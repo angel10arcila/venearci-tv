@@ -41,6 +41,11 @@ const mediaFiles = [
         url: "https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8",
         type: "Tv"
     },
+   { 
+       name: "Vplus",
+       url: "https://univtec.g-mana.live/media/87cf9a41-5ac6-4377-8238-0217c6a19a97/mainManifest.m3u8?player.w=392.727&player.h=669.818&player.content_genre=Television&player.channel_name=VePlus",
+       type: "En vivo"
+    },
     {
         name: "Vepaco Tv",
         url: "https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8",
