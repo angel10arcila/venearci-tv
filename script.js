@@ -37,6 +37,11 @@ const mediaFiles = [
         type: "Tv"
     }, 
    {
+        name: "Mlb network",
+        url: "https://d2rz3em7ql838g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cy872esk4qweb/playlist.m3u8",
+        type: "tv"
+    },
+   {
         name: "Venevisión internacional",
         url: "https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8",
         type: "Tv"
