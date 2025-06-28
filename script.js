@@ -38,11 +38,6 @@ const mediaFiles = [
        type: "Tv"
     },
     {
-        name: "La X 89.9",
-        url: "https://vcp9.myplaytv.com/circuitox/circuitox/playlist.m3u8",
-        type: "Tv"
-    },
-    {
         name: "Vepaco Tv",
         url: "https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8",
         type: "Tv"
