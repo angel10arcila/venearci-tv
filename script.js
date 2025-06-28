@@ -1,6 +1,11 @@
 // Configuración de medios predefinidos
 const mediaFiles = [
-    
+
+    {
+        name: "Venearci",
+        url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/venearci-intro-video3.mp4",
+       type: "..."
+    },
     {
         name: "Tvfamilia",
         url: "https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/playlist.m3u8",
