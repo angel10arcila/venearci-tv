@@ -16,6 +16,22 @@ const mediaFiles = [
         url: "https://cdn9.vivozytv.com/hotflix/dsports/index.m3u8?token=699dbd399ce6531dd65b594cc23ac40d7c54b4ef-775a673dcd3981e17da931a855f0bb84-1751152202-1751141402&remote=154.12.246.225",
         type: "Tv"
     },
+    
+    {
+        name: "Fox Sports",
+        url: "https://ewvz.fubohd.com/foxsportsmx/mono.m3u8?token=62ae50027f577ef2ff784bd09900ab4148ee5be8-21-1751182198-1751164198",
+        type: "Video"
+    },
+    {
+        name: "Fox Sports 2",
+        url: "https://cgxheq.fubohd.com/foxsports2mx/mono.m3u8?token=d8a71ec1c30ab0fd27c0aa293ae77184ab978285-6e-1751183495-1751165495",
+        type: "Video"
+    },
+    {
+        name: "Fox Sports 3",
+        url: "https://bmf0aw9u.fubohd.com/foxsports3mx/mono.m3u8?token=0981745bda7030c03e9d1d3f17d13e65b395143e-b1-1751182260-1751164260",
+        type: "Video"
+    },
     {
         name: "Televen",
         url: "https://mediablocks-ve.global.ssl.fastly.net/10255/live/hls/televen/index.m3u8?hdnts=data%3Dip%3D200.93.97.245%2Cid%3DTLV-GUEST%2Cpid%3D255%2Cdid%3DN%2FA%2Csid%3DWBS~acl%3D%2F10255%2Flive%2Fhls%2Fteleven%2F%2A~exp%3D1751152640~hmac%3D65f2cdedc5fd23548cead502e44012f0012402140cce2e50b15c33996db19a82",
