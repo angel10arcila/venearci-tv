@@ -20,17 +20,17 @@ const mediaFiles = [
     {
         name: "Fox Sports",
         url: "https://ewvz.fubohd.com/foxsportsmx/mono.m3u8?token=62ae50027f577ef2ff784bd09900ab4148ee5be8-21-1751182198-1751164198",
-        type: "Video"
+        type: "Tv"
     },
     {
         name: "Fox Sports 2",
         url: "https://cgxheq.fubohd.com/foxsports2mx/mono.m3u8?token=d8a71ec1c30ab0fd27c0aa293ae77184ab978285-6e-1751183495-1751165495",
-        type: "Video"
+        type: "Tv"
     },
     {
         name: "Fox Sports 3",
         url: "https://bmf0aw9u.fubohd.com/foxsports3mx/mono.m3u8?token=0981745bda7030c03e9d1d3f17d13e65b395143e-b1-1751182260-1751164260",
-        type: "Video"
+        type: "Tv"
     },
     {
         name: "Televen",
