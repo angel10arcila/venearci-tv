@@ -12,6 +12,11 @@ const mediaFiles = [
         type: "Tv"
     },
     {
+        name: "CaracolTv",
+        url: "https://live20.bozztv.com/giatv/giatv-c1junfive/c1junfive/chunks.m3u8",
+        type: "Tv"
+    },
+    {
         name: "DirecTV",
         url: "https://cdn9.vivozytv.com/hotflix/dsports/index.m3u8?token=62b8a7f19e0e1cde5290587c07e834700de3955d-3df1c030bd827dc5fff9bfff1e5548d7-1751215835-1751205035&remote=154.12.246.225",
         type: "Tv"
