@@ -17,13 +17,7 @@ const mediaFiles = [
         type: "Tv"
     },
     
-    {
-        name: "Televen",
-        url: "https://mediablocks-ve.global.ssl.fastly.net/10255/live/hls/televen/index.m3u8?hdnts=data%3Dip%3D200.93.97.245%2Cid%3DTLV-GUEST%2Cpid%3D255%2Cdid%3DN%2FA%2Csid%3DWBS~acl%3D%2F10255%2Flive%2Fhls%2Fteleven%2F%2A~exp%3D1751226262~hmac%3D677d11165c5ebded61c78a39b5ce8a30e4f4d6865722033faee29e21eb3539a2",
-        type: "Tv"
-    }, 
-    //https://setp-televen-ssai-mslv4-open.akamaized.net/hls/live/2107128/televen/index.m3u8
-      {
+   {
         name: "Venevisión internacional",
         url: "https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8",
         type: "Tv"
@@ -54,11 +48,7 @@ const mediaFiles = [
         url: "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8",
         type: "Tv"
     },
-     {
-        name: "Telemundo California",
-        url: "https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8",
-        type: "Tv"
-    },
+    
     {
         name: "Telemundo Pr",
         url: "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
