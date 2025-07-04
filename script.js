@@ -22,11 +22,6 @@ const mediaFiles = [
         url: "https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8",
         type: "Tv"
     },
-    {
-        name: "Venevisión",
-        url: "https://venevision.akamaized.net/hls/live/2098814/VENEVISION/master.m3u8",
-        type: "Tv"
-    },
     { 
        name: "Vplus",
        url: "https://univtec.g-mana.live/media/87cf9a41-5ac6-4377-8238-0217c6a19a97/mainManifest.m3u8?player.w=392.727&player.h=669.818&player.content_genre=Television&player.channel_name=VePlus",
@@ -37,11 +32,6 @@ const mediaFiles = [
         url: "https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8",
         type: "Tv"
         
-    },
-    {
-        name: "Canal I",
-        url: "ttps://vcp10.myplaytv.com/canali/canali/.m3u8",
-        type: "Tv"
     },
     {
         name: "Anzoátegui Tv",
